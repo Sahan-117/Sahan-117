@@ -5,7 +5,7 @@
 - 📫 How to reach me through my email sahankotian2000@gmail.com
 - 😄 Pronouns: Hehe
 - ⚡ Fun fact:
-  Q. Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is often credited as the world's first computer programmer.
+     Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is often credited as the world's first computer programmer.
      In the mid-1800s, she wrote an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.
      This was long before the advent of modern computers!
 
