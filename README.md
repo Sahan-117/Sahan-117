@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Developer.
 - 💞️ I’m looking to collaborate on various other projects that i can get my hands on.
 - 📫 How to reach me through my email sahankotian2000@gmail.com
-- 😄 Pronouns: Hehe
+- 😄 Pronouns: He
 - ⚡ Fun fact:
      Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is often credited as the world's first computer programmer.
      In the mid-1800s, she wrote an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.
